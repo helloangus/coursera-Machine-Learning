@@ -126,11 +126,13 @@ xlabel('Microchip Test 1')
 ylabel('Microchip Test 2')
 
 legend('y = 1', 'y = 0', 'Decision boundary')
-hold off;
+% hold off;
 
 % Compute accuracy on our training set
 p = predict(theta, X);
 
 fprintf('Train Accuracy: %f\n', mean(double(p == y)) * 100);
 fprintf('Expected accuracy (with lambda = 1): 83.1 (approx)\n');
+
+
 
