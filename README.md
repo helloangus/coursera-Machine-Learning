@@ -7,7 +7,7 @@
 #### [Exercise 2](https://github.com/helloangus/coursera-Machine-Learning/tree/master/machine-learning-ex2)
 * Logistic Regression
 * Logistic Regression with Regularization
-#### [Exercise 3](https://github.com/helloangus/coursera-Machine-Learning/tree/master/machine-learning-ex3)(Not Complete)
+#### [Exercise 3](https://github.com/helloangus/coursera-Machine-Learning/tree/master/machine-learning-ex3)
 * Multiclass Classification
 * Neural Networks Prediction fuction
 #### [Exercise 4](https://github.com/helloangus/coursera-Machine-Learning/tree/master/machine-learning-ex4)(Not Complete)
