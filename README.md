@@ -10,7 +10,7 @@
 #### [Exercise 3](https://github.com/helloangus/coursera-Machine-Learning/tree/master/machine-learning-ex3)
 * Multiclass Classification
 * Neural Networks Prediction fuction
-#### [Exercise 4](https://github.com/helloangus/coursera-Machine-Learning/tree/master/machine-learning-ex4)(Not Complete)
+#### [Exercise 4](https://github.com/helloangus/coursera-Machine-Learning/tree/master/machine-learning-ex4)
 * Neural Networks Learning
 #### [Exercise 5](https://github.com/helloangus/coursera-Machine-Learning/tree/master/machine-learning-ex5)(Not Complete)
 * Regularized Linear Regression
